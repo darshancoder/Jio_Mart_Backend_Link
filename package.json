@@ -17,5 +17,8 @@
   "author": "",
   "license": "ISC",
   "description": "Jio Mart Backend Link Here",
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  }
 }
