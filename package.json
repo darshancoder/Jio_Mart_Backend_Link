@@ -18,6 +18,10 @@
   "license": "ISC",
   "description": "Jio Mart Backend Link Here",
   "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/darshancoder/Jio_Mart_Backend_Link.git"
