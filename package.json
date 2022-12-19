@@ -18,10 +18,7 @@
   "license": "ISC",
   "description": "Jio Mart Backend Link Here",
   "devDependencies": {},
-  "engines": {
-    "node":"14.x"
-  },
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   }
 }
