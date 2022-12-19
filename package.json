@@ -16,5 +16,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Jio Mart Backend Link Here",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshancoder/Jio_Mart_Backend_Link.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darshancoder/Jio_Mart_Backend_Link/issues"
+  },
+  "homepage": "https://github.com/darshancoder/Jio_Mart_Backend_Link#readme"
 }
